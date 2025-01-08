@@ -1,4 +1,8 @@
-# Wechat-Official-Account-Web
+# 
+
+Fork from[Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)
+
+为了适配自己的工作流, 修改了目录结构.
 
  微信公众号的关注界面
  
