@@ -2,7 +2,6 @@
 
 # 获取当前脚本的所在目录
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
-# 切换到 Makefile 所在的工作目录 (即脚本所在目录的父目录)
 cd "$SCRIPT_DIR" || exit 1
 
 # 定义本地目录
