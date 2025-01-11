@@ -6,7 +6,7 @@ cd "$SCRIPT_DIR" || exit 1
 
 # 定义本地目录
 LOCAL_DIR="public" # 脚本同级目录下的 public
-TAG_DIR="$SCRIPT_DIR/../source/wechatoa"
+TAG_DIR="$SCRIPT_DIR/../../source/wechatoa"
 
 # 上传文件到远程并覆盖
 echo "正在拷贝 public 目录下的文件到 wechatoa"
